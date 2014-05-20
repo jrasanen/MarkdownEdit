@@ -1,0 +1,11 @@
+#markdownContent {
+    font-family: "Ubuntu Mono", monospace;
+    font-size: 11px;
+    background: #ecf0f1;
+    padding: 10px;
+}
+#markdownContent:selected,
+#markdownContent:selected:focus {
+    background-color: #333;
+    color: #fff;
+}
